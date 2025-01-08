@@ -1,0 +1,6 @@
+*.csv
+*.spec
+dist/
+build/
+__pycache__/
+result/
