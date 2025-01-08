@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=MotorControl_PysimpleGUI_r2
+Comment=MotorControl_PysimpleGUI_r2
+Path=/home/kuwano/Desktop/TrapdoorFiveMotorControl
+Exec=/home/kuwano/Desktop/TrapdoorFiveMotorControl/dist/MotorControl_PysimpleGUI_r2
+Icon=/home/kuwano/Desktop/TrapdoorFiveMotorControl/motor.png
+Terminal=false
+Categories=Utility;Application;
